@@ -1,67 +1,52 @@
-[Short description explaining the high-level reason for the pull request]
+<!--
+Before opening your pull request, have a quick look at our contribution guidelines:
+https://github.com/antgroup/open-source-project-template/blob/main/CONTRIBUTING.md
 
-## Additions
+-->
 
--
+## Title
+<!--
+And make sure that the title of your pull request follows the following format:
+`<type>(<scope>): <subject>`
 
-## Removals
+`<type>` is the type of your pull request.
+`<scope>` is optional (including `()`) when you choose `none`.
+`<subject>` is a concise sentence in lowercase.
+-->
 
--
+**Type**
+<!-- What is the type of your pull request? Open the item by `[x]` way. -->
 
-## Changes
+- [ ] `feat`: (new feature)
+- [ ] `fix`: (bug fix)
+- [ ] `docs`: (doc update)
+- [ ] `style`: (update format)
+- [ ] `refactor`: (refactor code)
+- [ ] `test`: (test code)
+- [ ] `chore`: (other updates)
 
--
+**Scope**
+<!-- Which module does your pull request mainly modify? Select `none` when undetermined. -->
 
-## Testing
+- [ ] `web`: (web front-end module)
+- [ ] `api`: (web api module)
+- [ ] `service`: (service module)
+- [ ] `data`: (data module)
+- [ ] `none`: (no module)
 
-1.
+### Description
+<!-- Provide the relevant issue number associated with your pull request if needed. -->
 
-## Screenshots
+**Issue:** #
 
+<!-- Provide more information about this pull request. -->
 
-## Notes
+### Checklist
 
--
+- [ ] I have prepared the pull request title according to the requirements.
+- [ ] I have successfully run all unit tests and integration tests.
+- [ ] I have followed the code style guidelines of this project.
+- [ ] I have already rebased the latest `master` branch.
+- [ ] I have commented my code, particularly in hard-to-understand areas.
+- [ ] I have made corresponding changes to the documentation.
 
-## Todos
-
--
-
-## Checklist
-
-- [ ] PR has an informative and human-readable title
-- [ ] Changes are limited to a single goal (no scope creep)
-- [ ] Code can be automatically merged (no conflicts)
-- [ ] Code follows the standards laid out in the [development playbook](https://github.com/cfpb/development)
-- [ ] Passes all existing automated tests
-- [ ] Any _change_ in functionality is tested
-- [ ] New functions are documented (with a description, list of inputs, and expected output)
-- [ ] Placeholder code is flagged / future todos are captured in comments
-- [ ] Visually tested in supported browsers and devices (see checklist below :point_down:)
-- [ ] Project documentation has been updated (including the "Unreleased" section of the CHANGELOG)
-- [ ] Reviewers requested with the [Reviewers tool](https://help.github.com/articles/requesting-a-pull-request-review/) :arrow_right:
-
-## Testing checklist
-
-### Browsers
-
-- [ ] Chrome
-- [ ] Firefox
-- [ ] Safari
-- [ ] Internet Explorer 8, 9, 10, and 11
-- [ ] Edge
-- [ ] iOS Safari
-- [ ] Chrome for Android
-
-### Accessibility
-
-- [ ] Keyboard friendly
-- [ ] Screen reader friendly
-
-### Other
-
-- [ ] Is useable without CSS
-- [ ] Is useable without JS
-- [ ] Flexible from small to large screens
-- [ ] No linting errors or warnings
-- [ ] JavaScript tests are passing
