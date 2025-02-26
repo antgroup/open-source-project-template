@@ -13,6 +13,7 @@ This template is based on the [CFPB Open Source Project Template Instructions](h
 7. Write some great software and tell people about it.
 8. A formatted name can be provided for the documents if your documents have multi-language support. You can use the formatted form, which is `{name}_{language code}.{ext}`.
       - NOTICE: The language code lists can be [found here](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes). For instance, if the document is in Chinese, it is possible to use the name `README_ZH.md`.
+      - We recommend that English be used as the primary language in documents and other contents.
 
 > Keep the README fresh! It's the first thing people see and will make the initial impression.
 
