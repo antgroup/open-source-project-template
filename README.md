@@ -1,4 +1,6 @@
-#### CFPB Open Source Project Template Instructions
+## The Antgroup Open Source Project Template
+
+This template is based on the [CFPB Open Source Project Template Instructions](https://github.com/cfpb/open-source-project-template), thanks to the CFPB for their work.
 
 1. Create a new project.
 2. [Copy these files into the new project](#installation)
@@ -13,6 +15,8 @@
 > Keep the README fresh! It's the first thing people see and will make the initial impression.
 
 ## Installation
+
+*Deprecated: this scirpt is outdated and will be rewriting in the future ([more](https://github.com/antgroup/open-source-project-template/issues/4)).*
 
 To install all of the template files, run the following script from the root of your project's directory:
 
@@ -45,6 +49,7 @@ Other things to include:
 ## Dependencies
 
 Describe any dependencies that must be installed for this software to work.
+
 This includes programming languages, databases or other storage mechanisms, build tools, frameworks, and so forth.
 If specific versions of other software are required, or known not to work, call that out.
 
@@ -94,7 +99,7 @@ General instructions on _how_ to contribute should be stated with a link to [CON
 ## Open source licensing info
 1. [TERMS](TERMS.md)
 2. [LICENSE](LICENSE)
-3. [CFPB Source Code Policy](https://github.com/cfpb/source-code-policy/)
+3. <del>[CFPB Source Code Policy](https://github.com/cfpb/source-code-policy/)</del> (deprecated)
 
 
 ----
