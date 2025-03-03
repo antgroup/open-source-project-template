@@ -8,12 +8,13 @@ This template is based on the [CFPB Open Source Project Template Instructions](h
 4.  A formatted name can be provided for the documents if your documents have multi-language support. You can use the formatted form, which is `{name}_{language code}.{ext}`.
       - NOTICE: The language code lists can be [found here](https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes). For instance, if the document is in Chinese, it is possible to use the name `README_ZH.md`.
       - We recommend that English be used as the primary language in documents and other contents.
+      - A great README project that we may use as a reference is provided [here](https://github.com/matiassingers/awesome-readme).
 5. Add any libraries, assets, or hard dependencies whose source code will be included
    in the project's repository to the _Exceptions_ section in the [TERMS](TERMS.md).
      - If no exceptions are needed, remove that section from TERMS.
-6. If working with an existing code base, answer the questions on the [open source checklist](opensource-checklist.md)
-7. Delete these instructions and everything up to the _Project Title_ from the README.
-8. Write some great software and tell people about it.
+7. If working with an existing code base, answer the questions on the [open source checklist](opensource-checklist.md)
+8. Delete these instructions and everything up to the _Project Title_ from the README.
+9. Write some great software and tell people about it.
 
 > Keep the README fresh! It's the first thing people see and will make the initial impression.
 
